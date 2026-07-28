@@ -1,0 +1,96 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 700 >>
+stream
+BT
+/F2 20 Tf
+50 740 Td
+(Peter van Beek, Ph.D.) Tj
+0 -24 Td
+/F1 11 Tf
+(AI Systems Engineer | Portland, OR | pjlvanbeek@gmail.com | linkedin.com/in/petervanbeek) Tj
+0 -30 Td
+/F2 14 Tf
+(EXECUTIVE SUMMARY) Tj
+0 -18 Td
+/F1 10 Tf
+(Senior AI Systems Engineer with 25+ years bridging signals, models, profiling, accelerator silicon specs,) Tj
+0 -14 Td
+(and embedded deployment across automotive speech, computer vision, and robotics.) Tj
+0 -26 Td
+/F2 14 Tf
+(PROFESSIONAL EXPERIENCE) Tj
+0 -18 Td
+/F2 11 Tf
+(Rivian & VW Group Technologies | Senior Staff AI Engineer) Tj
+/F1 10 Tf
+( (Apr 2025 - Mar 2026)) Tj
+0 -14 Td
+(- Led speech AI model inference optimization for Rivian Voice Assistant (TTS, ASR, noise suppression).) Tj
+0 -14 Td
+(- Quantized models to INT8/FP16 for real-time latency & memory targets on automotive SoC.) Tj
+0 -22 Td
+/F2 11 Tf
+(Intel Corporation | Senior AI Algorithm Engineer) Tj
+/F1 10 Tf
+( (May 2019 - Nov 2024)) Tj
+0 -14 Td
+(- Developed efficient deep-learning models for semantic segmentation, depth estimation, & super-resolution.) Tj
+0 -14 Td
+(- Authored functional hardware specs for efficient low-precision deep learning accelerators.) Tj
+0 -22 Td
+/F2 11 Tf
+(Intel & Mobileye | Technical Lead) Tj
+/F1 10 Tf
+( (Apr 2017 - May 2019)) Tj
+0 -14 Td
+(- Led open-source C++ library implementation for Responsibility Sensitive Safety (ad-rss-lib).) Tj
+0 -14 Td
+(- Developed scenario-based safety KPI algorithms & sensor compression solutions.) Tj
+0 -22 Td
+/F2 11 Tf
+(Sharp Labs of America | Technical Lead Manager & Principal Researcher) Tj
+/F1 10 Tf
+( (1998 - 2016)) Tj
+0 -14 Td
+(- Led computer vision, robotics navigation, 4K/8K/HDR TV vision processing, & MPEG contributions.) Tj
+0 -26 Td
+/F2 14 Tf
+(EDUCATION) Tj
+0 -18 Td
+/F2 11 Tf
+(Delft University of Technology) Tj
+/F1 10 Tf
+( - Ph.D. & M.Sc.Eng. in Electrical and Computer Engineering) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000257 00000 n 
+0000001010 00000 n 
+0000001077 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+1149
+%%EOF
